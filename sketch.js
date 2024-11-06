@@ -1,7 +1,7 @@
 let bg;
 
 function preload(){
-  bg = loadImage("./background.jpeg");
+  bg = loadImage("./background.jpg");
 }
 
 
